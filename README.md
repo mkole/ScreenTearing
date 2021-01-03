@@ -1,6 +1,6 @@
 # Tearing
 
-If you have Intel Graphics and video playback on YouTube is flickering, put **20-intel.conf** file inside 
+If you have Intel Graphics and video playback on YouTube is flickering, put **20-intel.conf** file inside &nbsp;
 **/etc/X11/xorg.conf.d** folder.
 
 &nbsp;
